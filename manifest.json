@@ -1,0 +1,9 @@
+{
+    "name": "FastFeedbacker",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Spelar1231/FastFeedbacker",
+    "description": "Makes the feedbacker faster by removing the cooldown. That's all.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2121"
+    ]
+}
